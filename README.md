@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Francesco Neri, an Aerospace Engineer from Italy
-- 👀 I’m interested in computational fluid dynamics and machine learning
+- 👋 Hi, I am Francesco Neri, an Aerospace Engineer from Italy
+- 👀 I’m interested in computational fluid dynamics, machine learning and numerical optimization
 - 📫 You can reach me on my personal email adress: francesconeri95@gmail.com
 
 <!---
